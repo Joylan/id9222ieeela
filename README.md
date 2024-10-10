@@ -1,5 +1,5 @@
 
-# Source Code and Resources for the Paper ID 9222 in Journal IEEE Latin America Transactions 
+# Source Code and Resources for the Paper ID 9222 - Journal IEEE Latin America Transactions 
 
 This repository contains the source code, resource, dataset link and results from paper "**MACIEL J.M, SOUZA G.C, ZALEWSKI W., LEDESMA J.J.G., ANDO JUNIOR O. H. Optimizing Solar Irradiance Prediction: Feature Selection for All-Sky Image Processing Using a Hybrid Prediction Method (PAPER ID 9222). IEEE Latin America Transactions, 2024.** 
 
